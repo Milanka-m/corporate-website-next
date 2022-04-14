@@ -1,0 +1,115 @@
+.orderItem__card {
+  background: #F5F5F5;
+  border-radius: 10px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  height: 100%;
+}
+
+.orderItem__cardHeading {
+  padding: 35px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.orderItem__cardTitle {
+  font-size: 1.5rem;
+  font-family: 'Raleway',sans-serif;
+  line-height: 1;
+  font-weight: 700;
+  letter-spacing: -.03em;
+  color: #f43dd1;
+  margin: 0;
+  text-align: center;
+  padding-bottom: 22px;
+}
+
+.orderItem__cardText {
+  padding-top: 10px;
+  font-size: 1rem;
+  font-family: 'Open Sans',sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color: #000;
+  margin: 0;
+  position: relative;
+  &::before,
+  &::after {
+    content: "";
+    position: absolute;
+    top: 20px;
+    left: -25px;
+    display: block;
+    width: 7px;
+    height: 2px;
+    background-color: #f43dd1;
+    transform: translate(-10px, 80%) rotate(45deg);
+  }
+  &::after {
+    transform: translate(-8px, -100%) rotate(-45deg);
+    width: 20px;
+    height: 2px;
+  }
+}
+
+.orderItem__cardBtn {
+  margin-bottom: 35px;
+  border: 0;
+  padding: 18px 17px;
+  width: 125px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  box-shadow: 0 20px 30px rgb(34 34 34 / 7%);
+  font-family: 'Raleway',sans-serif;
+  font-size: .75rem;
+  line-height: 1;
+  font-weight: 800;
+  border-radius: 50px;
+  border-top-left-radius: 0;
+  color: #fff;
+  background: #f43dd1;
+  text-transform: uppercase;
+  transition: 300ms ease all;
+  &:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 7.5px 15px rgba(34,34,34,.2);
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .orderItem__cardHeading {
+    padding: 20px;
+  }
+
+  .orderItem__cardTitle {
+    font-size: 1.2rem;
+    padding-bottom: 15px;
+  }
+
+  .orderItem__cardText {
+    padding-top: 10px;
+    font-size: .85rem;
+    &::before,
+    &::after {
+      width: 6px;
+    }
+    &::after {
+      width: 16px;
+    }
+  }
+
+  .orderItem__cardBtn {
+    margin-bottom: 35px;
+    border: 0;
+    padding: 15px;
+    width: 100px;
+    font-size: .6rem;
+  }
+
+}

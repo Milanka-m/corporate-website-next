@@ -1,0 +1,211 @@
+{
+	"cards": [
+		{
+			"id": "1",
+			"title": "Сайт “Karlson”",
+			"image": "https://brainagency.eu/wp-content/uploads/2021/09/karlson-web-main-1280x1280.webp",
+			"category": "all",
+			"portfoliolink": "/portfolio/sajt-karlson",
+			"categorytitle": "Разработка сайта"
+		},
+		{
+			"id": "2",
+			"title": "Сайт “Fine Quality”",
+			"image": "https://brainagency.eu/wp-content/uploads/2021/05/laptop-1280x1280.webp",
+			"category": "all",
+			"portfoliolink": "/portfolio/sajt-fine-quality",
+			"categorytitle": "Разработка сайта"
+		},
+		{
+			"id": "3",
+			"title": "Постер к фильму “Любовь живет три года”",
+			"image": "https://brainagency.eu/wp-content/uploads/2021/05/bus-stop-1280x1280.webp",
+			"category": "all",
+			"portfoliolink": "/portfolio/poster-k-filmu-lyubov-zhivet-tri-goda",
+			"categorytitle": "Наружная реклама"
+		},
+		{
+			"id": "4",
+			"title": "Фреш-бар “Fresh Juice”",
+			"image": "https://brainagency.eu/wp-content/uploads/2020/11/%D0%B1%D1%80%D0%BE%D1%88%D1%8E%D1%80%D0%B0.webp",
+			"category": "all",
+			"portfoliolink": "/portfolio/fresh-bar-fresh-juice",
+			"categorytitle": "Графический дизайн",
+			"linktitle": "SMM"
+		},
+		{
+			"id": "5",
+			"title": "Сайт “Sweet Food”",
+			"image": "https://brainagency.eu/wp-content/uploads/2020/11/sweet-food-vizualization-1280x1154.webp",
+			"category": "all",
+			"portfoliolink": "/portfolio/sajt-sweet-food",
+			"categorytitle": "Разработка сайта"
+		},
+		{
+			"id": "6",
+			"title": "Сайт “AVVE”",
+			"image": "https://brainagency.eu/wp-content/uploads/2020/11/main-avve-1280x1280.webp",
+			"category": "all",
+			"portfoliolink": "/portfolio/sajt-avve",
+			"categorytitle": "Разработка сайта"
+		},
+		{
+			"id": "7",
+			"title": "Фреш-бар “Fresh Juice”",
+			"image": "https://brainagency.eu/wp-content/uploads/2020/11/%D0%B1%D1%80%D0%BE%D1%88%D1%8E%D1%80%D0%B0.webp",
+			"category": "smm",
+			"portfoliolink": "/portfolio/fresh-bar-fresh-juice",
+			"categorytitle": "Графический дизайн",
+			"linktitle": "SMM"
+		},
+		{
+			"id": "8",
+			"title": "SPA Салон “Liga”",
+			"image": "https://brainagency.eu/wp-content/uploads/2020/10/liga-presentation-.webp",
+			"category": "smm",
+			"portfoliolink": "/portfolio/spa-salon-liga",
+			"categorytitle": "Графический дизайн",
+			"linktitle": "SMM"
+		},
+		{
+			"id": "9",
+			"title": "Пиццерия “Extra Pizza”",
+			"image": "https://brainagency.eu/wp-content/uploads/2020/10/%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F.webp",
+			"category": "smm",
+			"portfoliolink": "/portfolio/picceriya-extra-pizza",
+			"categorytitle": "Графический дизайн",
+			"linktitle": "SMM"
+		},
+		{
+			"id": "10",
+			"title": "Кебаб “Turkish Doner”",
+			"image": "https://brainagency.eu/wp-content/uploads/2020/10/Turkish-Doner-Kebabs-1280x1280.webp",
+			"category": "smm",
+			"portfoliolink": "/portfolio/kebab-turkish-doner",
+			"linktitle": "SMM"
+		},
+		{
+			"id": "11",
+			"title": "“Cod” Ресторан",
+			"image": "https://brainagency.eu/wp-content/uploads/2020/10/cod-restaraunt-presentation-e1615973282321.webp",
+			"category": "smm",
+			"portfoliolink": "/portfolio/cod-restoran",
+			"linktitle": "SMM"
+		},
+		{
+			"id": "12",
+			"title": "Фреш-бар “Fresh Juice”",
+			"image": "https://brainagency.eu/wp-content/uploads/2020/11/%D0%B1%D1%80%D0%BE%D1%88%D1%8E%D1%80%D0%B0.webp",
+			"category": "design",
+			"portfoliolink": "/portfolio/fresh-bar-fresh-juice",
+			"categorytitle": "Графический дизайн",
+			"linktitle": "SMM"
+		},
+		{
+			"id": "13",
+			"title": "Логотип “AgriBaltic”",
+			"image": "https://brainagency.eu/wp-content/uploads/2020/10/%D0%91%D0%B5%D0%B7-%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8-1-min.webp",
+			"category": "design",
+			"portfoliolink": "/portfolio/logotip-agribaltic",
+			"categorytitle": "Графический дизайн"
+		},
+		{
+			"id": "14",
+			"title": "Логотип “Smart Land”",
+			"image": "https://brainagency.eu/wp-content/uploads/2020/10/smartland-1280x1280.webp",
+			"category": "design",
+			"portfoliolink": "/portfolio/logotip-smart-land",
+			"categorytitle": "Графический дизайн"
+		},
+		{
+			"id": "15",
+			"title": "Логотип “Rekolog”",
+			"image": "https://brainagency.eu/wp-content/uploads/2020/10/logo-rekolog-1280x1154.webp",
+			"category": "design",
+			"portfoliolink": "/portfolio/logotip-rekolog",
+			"categorytitle": "Графический дизайн",
+			"linktitle": "Наружная реклама"
+		},
+		{
+			"id": "16",
+			"title": "Логотип “Kalku Nams”",
+			"image": "https://brainagency.eu/wp-content/uploads/2020/10/kalka-nams-visualisation-1280x1154.webp",
+			"category": "design",
+			"portfoliolink": "/portfolio/logotip-kalku-nams",
+			"categorytitle": "Графический дизайн"
+		},
+		{
+			"id": "17",
+			"title": "Логотип “Banketu Fabrika”",
+			"image": "https://brainagency.eu/wp-content/uploads/2020/10/banketu-fabrika-visualisation-1280x1154.webp",
+			"category": "design",
+			"portfoliolink": "/portfolio/logotip-banketu-fabrika",
+			"categorytitle": "Графический дизайн"
+		},
+		{
+			"id": "18",
+			"title": "Постер к фильму “Любовь живет три года”",
+			"image": "https://brainagency.eu/wp-content/uploads/2021/05/bus-stop-1280x1280.webp",
+			"category": "advertisement",
+			"portfoliolink": "/portfolio/poster-k-filmu-lyubov-zhivet-tri-goda",
+			"categorytitle": "Наружная реклама"
+		},
+		{
+			"id": "19",
+			"title": "Логотип “Rekolog”",
+			"image": "https://brainagency.eu/wp-content/uploads/2020/10/logo-rekolog-1280x1154.webp",
+			"category": "advertisement",
+			"portfoliolink": "/portfolio/logotip-rekolog",
+			"categorytitle": "Графический дизайн",
+			"linktitle": "Наружная реклама"
+		},
+		{
+			"id": "20",
+			"title": "Сайт “Karlson”",
+			"image": "https://brainagency.eu/wp-content/uploads/2021/09/karlson-web-main-1280x1280.webp",
+			"category": "website",
+			"portfoliolink": "/portfolio/sajt-karlson",
+			"categorytitle": "Разработка сайта"
+		},
+		{
+			"id": "21",
+			"title": "Сайт “Fine Quality”",
+			"image": "https://brainagency.eu/wp-content/uploads/2021/05/laptop-1280x1280.webp",
+			"category": "website",
+			"portfoliolink": "/portfolio/sajt-fine-quality",
+			"categorytitle": "Разработка сайта"
+		},
+		{
+			"id": "22",
+			"title": "Сайт “Sweet Food”",
+			"image": "https://brainagency.eu/wp-content/uploads/2020/11/sweet-food-vizualization-1280x1154.webp",
+			"category": "website",
+			"portfoliolink": "/portfolio/sajt-sweet-food",
+			"categorytitle": "Разработка сайта"
+		},
+		{
+			"id": "23",
+			"title": "Сайт “AVVE”",
+			"image": "https://brainagency.eu/wp-content/uploads/2020/11/main-avve-1280x1280.webp",
+			"category": "website",
+			"portfoliolink": "/portfolio/sajt-avve",
+			"categorytitle": "Разработка сайта"
+		},
+		{
+			"id": "24",
+			"title": "Сайт “Siluets”",
+			"image": "https://brainagency.eu/wp-content/uploads/2020/11/siluets-visualization-1280x1154.webp",
+			"category": "website",
+			"portfoliolink": "/portfolio/sajt-siluets",
+			"categorytitle": "Разработка сайта"
+		},
+		{
+			"id": "25",
+			"title": "Сайт “Bestclean”",
+			"image": "https://brainagency.eu/wp-content/uploads/2020/10/beastclean-visualization-1280x1154.webp",
+			"category": "website",
+			"portfoliolink": "/portfolio/sajt-bestclean",
+			"categorytitle": "Разработка сайта"
+		}
+	]
+}

@@ -1,0 +1,146 @@
+.orderSmall {
+  width: 100%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 90px 0 130px;
+}
+
+.orderSmall__title {
+  font-family: 'Raleway',sans-serif;
+  color: #210d94;
+  font-size: 3.125em;
+  line-height: 1;
+  margin: 0;
+  font-weight: 800;
+  letter-spacing: -.03em;
+  padding: 0 0 73px 160px;
+}
+
+.orderSmall__container {
+  width: 83%;
+	margin: 0 auto;
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-template-rows: auto;
+	gap: 103px 80px;
+  align-items: stretch;
+}
+
+.orderSmall__card {
+  background: #F5F5F5;
+  border-radius: 10px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  height: 100%;
+}
+
+.orderSmall__cardHeading {
+  padding: 35px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.orderSmall__cardTitle {
+  font-size: 1.5rem;
+  font-family: 'Raleway',sans-serif;
+  line-height: 1;
+  font-weight: 700;
+  letter-spacing: -.03em;
+  color: #210d94;
+  margin: 0;
+  text-align: center;
+  padding-bottom: 22px;
+}
+
+.orderSmall__cardText {
+  font-size: 1rem;
+  font-family: 'Open Sans',sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color: #000;
+  margin: 0;
+  text-align: justify;
+}
+
+.orderSmall__cardText_align {
+  text-align: left;
+}
+
+.orderSmall__cardBtn {
+  margin-bottom: 35px;
+  border: 0;
+  padding: 18px 17px;
+  width: 125px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  box-shadow: 0 20px 30px rgb(34 34 34 / 7%);
+  font-family: 'Raleway',sans-serif;
+  font-size: .75rem;
+  line-height: 1;
+  font-weight: 800;
+  border-radius: 50px;
+  border-top-left-radius: 0;
+  color: #fff;
+  background: #f43dd1;
+  text-transform: uppercase;
+  transition: 300ms ease all;
+  &:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 7.5px 15px rgba(34,34,34,.2);
+  }
+}
+
+@media screen and (min-width: 501px) and (max-width: 1840px) {
+  .orderSmall__container {
+    width: 92%;
+  }
+} 
+
+@media screen and (max-width: 500px) {
+  .orderSmall {
+    padding: 40px 0;
+  }
+  .orderSmall__title {
+    font-size: 1.8em;
+    padding: 0 0 30px 10px;
+  }
+  
+  .orderSmall__container {
+    width: 90%;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 30px;
+  }
+  
+  .orderSmall__cardHeading {
+    padding: 25px 20px;
+    height: auto;
+  }
+  
+  .orderSmall__cardTitle {
+    font-size: 1.2rem;
+  }
+  
+  .orderSmall__cardText {
+    font-size: .9rem;
+  }
+  
+  .orderSmall__cardText_align {
+    text-align: left;
+  }
+  
+  .orderSmall__cardBtn {
+    margin-bottom: 25px;
+    border: 0;
+    padding: 15px;
+    width: 100px;
+    font-size: .6rem;
+  }
+} 

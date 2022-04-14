@@ -1,0 +1,427 @@
+.baner {
+	height: 95vh;
+	background-color: #210d94;
+	margin: 0 auto;
+	display: flex;
+	justify-content: center;
+	box-sizing: border-box;
+}
+
+.portfolio {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	margin: auto;
+}
+
+.portfolio__container {
+	width: 64%;
+	padding-bottom: 20px;
+	margin: 0 auto;
+}
+
+.portfolio__title {
+	font-family: "Raleway", sans-serif;
+	color: #f43dd1;
+	font-size: 3.125em;
+	line-height: 1;
+	margin: 0;
+	font-weight: 800;
+	letter-spacing: -0.03em;
+	padding-bottom: 35px;
+}
+
+.portfolio__content {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.portfolio__cardLink {
+	margin-top: 10px;
+	padding: 1.6em 2.1em;
+	width: 229px;
+	position: relative;
+	display: flex;
+	justify-content: center;
+	box-sizing: border-box;
+	box-shadow: 0 20px 30px rgb(34 34 34 / 7%);
+	font-family: "Raleway", sans-serif;
+	font-size: 0.85rem;
+	line-height: 1;
+	font-weight: 800;
+	border-radius: 30px;
+	border-top-left-radius: 0;
+	color: #fff;
+	background: #210d94;
+	transition: 300ms ease all;
+	&:hover {
+		transform: translateY(-3px);
+		box-shadow: 0 7.5px 15px rgba(34, 34, 34, 0.2);
+	}
+}
+
+.partners {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	background: rgb(246, 246, 246);
+	box-sizing: border-box;
+	padding: 20px 0 25px;
+}
+
+.partners__container {
+	width: 62%;
+}
+
+.addPortfolio {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	margin: auto;
+}
+
+.addPortfolio__container {
+	width: 71vw;
+	margin: 0 auto;
+	padding-bottom: 80px;
+}
+
+.addPortfolio__title {
+	font-family: "Raleway", sans-serif;
+	color: #210d94;
+	font-size: 3em;
+	line-height: 1;
+	margin: 0;
+	font-weight: 800;
+	letter-spacing: -0.03em;
+	padding-bottom: 50px;
+}
+
+.addPortfolio__title_color {
+	color: #f43dd1;
+}
+
+.addPortfolio__content {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.addPortfolio__cardLink {
+	margin-top: 10px;
+	padding: 1.6em 2.1em;
+	width: 229px;
+	position: relative;
+	display: flex;
+	justify-content: center;
+	box-sizing: border-box;
+	box-shadow: 0 20px 30px rgb(34 34 34 / 7%);
+	font-family: "Raleway", sans-serif;
+	font-size: 0.85rem;
+	line-height: 1;
+	font-weight: 800;
+	border-radius: 30px;
+	border-top-left-radius: 0;
+	color: #fff;
+	background: #210d94;
+	transition: 300ms ease all;
+	&:hover {
+		transform: translateY(-3px);
+		box-shadow: 0 7.5px 15px rgba(34, 34, 34, 0.2);
+	}
+}
+
+.addPortfolio__cardLink_background {
+	background: #f43dd1;
+}
+
+.application {
+	width: 100%;
+	margin: auto;
+	padding: 80px 0 50px;
+}
+
+.application__container {
+	width: 64vw;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin: auto;
+}
+
+.application__heading {
+	width: 30em;
+	padding-right: 10%;
+}
+
+.application__title {
+	font-family: "Raleway", sans-serif;
+	color: #f43dd1;
+	font-size: 3em;
+	line-height: 1;
+	margin: 0;
+	font-weight: 800;
+	letter-spacing: -0.03em;
+	padding-bottom: 50px;
+}
+
+.application__subtitle {
+	font-family: "Open Sans", sans-serif;
+	font-size: 0.94rem;
+	font-weight: normal;
+	line-height: 1.6em;
+	color: #181818;
+}
+
+.orderItem {
+	width: 100%;
+	margin: auto;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	padding: 90px 0 130px;
+}
+
+.orderItem__title {
+	font-family: "Raleway", sans-serif;
+	color: #210d94;
+	font-size: 3.125em;
+	line-height: 1;
+	margin: 0;
+	font-weight: 800;
+	letter-spacing: -0.03em;
+	padding: 0 0 73px 160px;
+}
+
+.orderItem__container {
+	width: 83%;
+	margin: 0 auto;
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-template-rows: auto;
+	gap: 103px 80px;
+	align-items: stretch;
+}
+
+.contacts {
+	width: 100%;
+	position: relative;
+	box-sizing: border-box;
+	display: flex;
+	justify-content: center;
+	margin: 0 auto;
+	z-index: 9;
+	&::before {
+		width: 100%;
+		bottom: 0;
+		right: 0;
+		position: absolute;
+		content: "";
+		top: 0;
+		left: 0;
+		background-image: url(../assets/images/bgn-dotter-curve-top-right-gray.webp);
+		background-repeat: no-repeat;
+		background-size: contain;
+		z-index: 10;
+	}
+}
+
+.contacts__content {
+	z-index: 15;
+	width: 80vw;
+	margin: 0 auto;
+	display: flex;
+	justify-content: space-between;
+	padding: 100px 0 150px;
+}
+
+.cotacts__containerForm {
+	padding: 100px 50px 0 0;
+}
+
+.privacyPolicy {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	box-sizing: border-box;
+}
+
+.privacyPolicy__container {
+	width: 63vw;
+	padding: 50px 0 15px;
+}
+
+.privacyPolicy__title {
+	font-family: "Raleway", sans-serif;
+	font-size: 2.5em;
+	padding: 0 0 30px;
+	line-height: 1;
+	margin: 0;
+	font-weight: 800;
+	letter-spacing: -0.03em;
+	color: #181818;
+}
+
+.privacyPolicy__text {
+	font-size: 1rem;
+	font-family: "Open Sans", sans-serif;
+	line-height: 1.5;
+	font-weight: 400;
+	color: #181818;
+	padding-bottom: 20px;
+}
+
+.mobileApp {
+	width: 50%;
+}
+
+.mobileApp__text {
+	font-family: "Open Sans", sans-serif;
+	font-weight: 400;
+	font-size: 1rem;
+	line-height: 1.5em;
+	margin: 0;
+	span {
+		color: #210d94;
+		font-weight: 600;
+	}
+}
+
+#mobileApp__lists {
+	list-style: disc;
+	padding: 20px 0 0 20px;
+	margin: 0;
+}
+
+@media screen and (min-width: 501px) and (max-width: 1840px) {
+	.portfolio__container {
+		width: 85%;
+	}
+	.partners__container {
+		width: 85%;
+	}
+	.addPortfolio__container {
+		width: 85%;
+	}
+
+	.application__container {
+		width: 85%;
+	}
+	.orderItem__container {
+		width: 92%;
+	}
+	.orderItem__title {
+		padding: 0 0 73px 60px;
+	}
+}
+
+@media screen and (max-width: 500px) {
+	.baner {
+		display: none;
+	}
+	.portfolio__container {
+		width: 88%;
+	}
+
+	.addPortfolio__container {
+		width: 90%;
+		padding-bottom: 20px;
+	}
+
+	.addPortfolio__cardLink {
+		margin-top: 10px;
+		padding: 15px;
+		width: 160px;
+		font-size: 0.6rem;
+	}
+
+	.addPortfolio__title {
+		font-size: 2em;
+		padding-bottom: 40px;
+	}
+
+	.portfolio__cardLink {
+		margin-top: 10px;
+		padding: 2em 1em;
+		width: 180px;
+		font-size: 0.6rem;
+	}
+	.portfolio__title {
+		font-size: 2em;
+		padding-bottom: 20px;
+	}
+
+	.contacts__content {
+		width: 90%;
+		flex-direction: column;
+		padding: 40px 0;
+	}
+
+	.cotacts__containerForm {
+		padding: 0 0 40px 0;
+	}
+
+	.privacyPolicy__container {
+		width: 90%;
+		padding: 30px 0 15px;
+	}
+
+	.privacyPolicy__title {
+		font-size: 1.45em;
+		padding: 0 0 20px;
+	}
+
+	.privacyPolicy__text {
+		font-size: 0.9rem;
+		padding-bottom: 20px;
+	}
+
+	.application {
+		margin-bottom: 0;
+		padding: 40px 0;
+	}
+
+	.application__container {
+		width: 90%;
+		flex-direction: column;
+	}
+
+	.application__heading {
+		width: 100%;
+		padding-right: 0;
+		padding-bottom: 10%;
+	}
+
+	.application__title {
+		font-size: 2em;
+		padding-bottom: 30px;
+	}
+
+	.application__subtitle {
+		font-size: 0.9rem;
+	}
+
+	.mobileApp {
+		width: 100%;
+	}
+
+	.mobileApp__text {
+		font-size: 0.9rem;
+	}
+
+	.orderItem {
+		padding: 40px 0;
+	}
+
+	.orderItem__title {
+		font-size: 2em;
+		padding: 0 0 30px 10px;
+	}
+
+	.orderItem__container {
+		width: 90%;
+		grid-template-columns: repeat(1, 1fr);
+		gap: 30px;
+	}
+}

@@ -1,0 +1,68 @@
+.promotion {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	margin: auto;
+	background-image: url(../../assets/images/bgn-gray-curve-bottom-left-2.webp);
+	background-repeat: no-repeat;
+	background-position: bottom center;
+	background-size: contain;
+}
+
+.promotion__container {
+	width: 83%;
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-start;
+	padding: 60px 0 50px 12%;
+}
+
+.promotion__content {
+	max-width: 50%;
+}
+
+.promotion__title {
+	font-family: "Raleway", sans-serif;
+	color: #f43dd1;
+	font-size: 3.125em;
+	line-height: 1;
+	margin: 0;
+	font-weight: 800;
+	letter-spacing: -0.03em;
+	padding-bottom: 40px;
+}
+
+.promotion__item {
+	font-family: "Open Sans", sans-serif;
+	font-weight: 400;
+	font-size: 1rem;
+	line-height: 1.5em;
+	//position: relative;
+	margin: 0;
+	span {
+		color: #210d94;
+		font-weight: 600;
+	}
+	/* &::before {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 10px;
+    left: -2%;
+    height: 6px;
+    width: 6px;
+    border-radius: 50%;
+    background-color: #000;
+  } */
+}
+
+@media screen and (max-width: 1840px) {
+	.promotion__container {
+		width: 92%;
+		padding: 50px 0 80px 1%;
+	}
+	.promotion__content {
+		max-width: 58%;
+		padding-right: 50px;
+	}
+}

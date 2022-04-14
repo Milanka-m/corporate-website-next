@@ -1,0 +1,141 @@
+.projectSupport {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	margin: auto;
+	background-image: url(../../assets/images/bgn-gray-curve-bottom-left-2.webp);
+	background-repeat: no-repeat;
+	background-position: bottom center;
+	background-size: contain;
+}
+
+.projectSupport__container {
+	width: 71vw;
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-start;
+	margin-bottom: 80px;
+}
+
+.projectSupport__content {
+	width: 58%;
+	padding-left: 40px;
+}
+
+.projectSupport__title {
+	font-family: "Raleway", sans-serif;
+	color: #f43dd1;
+	font-size: 3.125em;
+	line-height: 1;
+	margin: 0;
+	font-weight: 800;
+	letter-spacing: -0.03em;
+	padding: 0 0 10px 0;
+	span {
+		color: #210d94;
+	}
+}
+
+#projectSupport__lists {
+	padding-top: 20px;
+	margin-left: 40px;
+}
+
+.projectSupport__item {
+	font-family: "Open Sans", sans-serif;
+	font-weight: 400;
+	font-size: 1rem;
+	line-height: 1.5;
+	margin: 0;
+	padding-top: 10px;
+	position: relative;
+	&::before,
+	&::after {
+		content: "";
+		position: absolute;
+		top: 22px;
+		left: -25px;
+		display: block;
+		width: 7px;
+		height: 2px;
+		background-color: #f43dd1;
+		transform: translate(-10px, 80%) rotate(45deg);
+	}
+	&::after {
+		transform: translate(-8px, -100%) rotate(-45deg);
+		width: 20px;
+		height: 2px;
+	}
+}
+
+.projectSupport__cardLink {
+	margin: 60px 0 0 40px;
+	padding: 26px 14px;
+	width: 152px;
+	position: relative;
+	display: flex;
+	justify-content: center;
+	box-sizing: border-box;
+	box-shadow: 0 20px 30px rgb(34 34 34 / 7%);
+	font-family: "Raleway", sans-serif;
+	font-size: 0.85rem;
+	line-height: 1;
+	font-weight: 800;
+	border-radius: 30px;
+	border-top-left-radius: 0;
+	color: #fff;
+	text-transform: uppercase;
+	background: #f43dd1;
+	transition: 300ms ease all;
+	&:hover {
+		transform: translateY(-3px);
+		box-shadow: 0 7.5px 15px rgba(34, 34, 34, 0.2);
+	}
+}
+
+@media screen and (min-width: 501px) and (max-width: 1840px) {
+	.projectSupport__container {
+		width: 85%;
+	}
+	.projectSupport__content {
+		width: 53vw;
+	}
+	.projectSupport__cardLink {
+		margin-top: 40px;
+	}
+}
+
+@media screen and (max-width: 500px) {
+	.projectSupport {
+		width: 90%;
+	}
+
+	.projectSupport__container {
+		width: 100%;
+		flex-direction: column-reverse;
+	}
+	.projectSupport__content {
+		width: 100%;
+		padding-left: 0;
+		padding-bottom: 30px;
+	}
+	.projectSupport__cardLink {
+		margin-top: 40px;
+	}
+
+	.projectSupport__title {
+		font-size: 2em;
+	}
+
+	.projectSupport__item {
+		font-size: .8rem;
+	}
+
+	.projectSupport__cardLink {
+		margin: 50px 0 0 40px;
+		padding: 20px 14px;
+		width: 130px;
+		font-size: 0.65rem;
+		align-self: flex-start;
+	}
+}

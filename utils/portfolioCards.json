@@ -1,0 +1,327 @@
+{
+	"cards": [
+		{
+			"id": "1",
+			"title": "Сайт “Karlson”",
+			"images": [
+				"/images/karlson-web-main.webp",
+				"/images/website-karlson-img-1.webp",
+				"/images/website-karlson-img-2.webp",
+				"/images/website-karlson-img-3.webp"
+			],
+			"imgnavlink": [
+				"/images/beastclean-visualization-160x160.webp",
+				"/images/laptop-160x160.webp"
+			],
+			"navlink": ["/razrabotka-sajtov"],
+			"category": ["all", "website"],
+			"portfoliolink": "/portfolio/sajt-karlson",
+			"categorytitle": ["Разработка сайта"],
+			"text": "<h2 className={styles.portfolioСase__subtitle}>Кейс: разработка сайта для “Karlson”</h2><ul className={styles.portfolioСase__socialLinks}><li><a href='https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbrainagency.eu%2Fportfolio%2F%D1%81%D0%B0%D0%B9%D1%82-karlson%2F' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/facebook.webp' alt='facebook-icon' width={26} height={26}/></a></li><li><a href='https://twitter.com/intent/tweet?text=https://brainagency.eu/portfolio/%d1%81%d0%b0%d0%b9%d1%82-karlson/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/twitter.webp' alt='twitter-icon' width={26} height={26}/></a></li><li><a href='https://www.linkedin.com/shareArticle?url=https://brainagency.eu/portfolio/%d1%81%d0%b0%d0%b9%d1%82-karlson/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/linkedin.webp' alt='linkedin-icon' width={26} height={26}/></a></li><li><a href='https://vk.com/share.php?url=https://brainagency.eu/portfolio/%d1%81%d0%b0%d0%b9%d1%82-karlson/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/vk.webp' alt='vk-icon' width={26} height={26}/></a></li></ul><h5 className={styles.portfolioСase__heading}>О компании:</h5><p className={styles.portfolioСase__text}>Детский садик “Karlson” работает с 1999 года. А сейчас это уже 4 благоустроенных и уютных филиалов. Частный детский сад “Karlson” принимает детей с возраста 1 года.</p><h5 className={styles.portfolioСase__heading}>Какую задачу перед нами поставил заказчик:</h5><p className={styles.portfolioСase__text}>В первую очередь сайт должен быть интуитивно понятен любому возрасту, что актуально и удобно для бабушек и дедушек. Сайт должен быть тематическим, с легкой и удобной админ панель управлением.</p><h5 className={styles.portfolioСase__heading}>Что мы предложили:</h5><p className={styles.portfolioСase__text}>Само название садика дало начало для дизайна сайта. Прежде, чем приступить к версте и установки на CMS систему, создаем прототип будущего сайта. Этап разработки дизайн проекта – самый творческий и яркий в процессе. Для реалистичности и возможности посмотреть, как веб сайтбудет выглядеть на экранах мониторов используем программу Figma. На страницах появляются персонажи доброго и всем нам известного мультфильма Карлсон. Предложили установить форму записи на каждый филиал, с возможностью записаться на определенную дату и время. В разделе контакты каждый филиал имеет свою контактную форму, google карту с маршрутом. Сайт полностью адаптирован под все устройства и корректно настроен под SEO продвижение.</p>"
+		},
+		{
+			"id": "2",
+			"title": "Сайт “Fine Quality”",
+			"images": [
+				"/images/sajt-fine-quality-img-1.webp",
+				"/images/sajt-fine-quality-img-2.webp",
+				"/images/sajt-fine-quality-img-3.webp",
+				"/images/sajt-fine-quality-img-4.webp",
+				"/images/sajt-fine-quality-img-5.webp"
+			],
+			"imgnavlink": [
+				"/images/laptop-160x160.webp",
+				"/images/bus-stop-160x160.webp"
+			],
+			"navlink": ["/razrabotka-sajtov"],
+			"category": ["all", "website"],
+			"portfoliolink": "/portfolio/sajt-fine-quality",
+			"categorytitle": ["Разработка сайта"],
+			"text": "<h2 className={styles.portfolioСase__subtitle}>Кейс: разработка сайта для “Fine Quality”</h2><ul className={styles.portfolioСase__socialLinks}><li><a href='https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbrainagency.eu%2Fportfolio%2F%D1%81%D0%B0%D0%B9%D1%82-fine-quality%2F' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/facebook.webp' alt='facebook-icon' width={26} height={26}/></a></li><li><a href='https://twitter.com/intent/tweet?text=https://brainagency.eu/portfolio/%d1%81%d0%b0%d0%b9%d1%82-fine-quality/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/twitter.webp' alt='twitter-icon' width={26} height={26}/></a></li><li><a href='https://www.linkedin.com/shareArticle?url=https://brainagency.eu/portfolio/%d1%81%d0%b0%d0%b9%d1%82-fine-quality/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/linkedin.webp' alt='linkedin-icon' width={26} height={26}/></a></li><li><a href='https://vk.com/share.php?url=https://brainagency.eu/portfolio/%d1%81%d0%b0%d0%b9%d1%82-fine-quality/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/vk.webp' alt='vk-icon' width={26} height={26}/></a></li></ul><h5 className={styles.portfolioСase__heading}>О компании:</h5><p className={styles.portfolioСase__text}>Фирма “Fine Quality” представляет широкий ассортимент французских вин.  Наличие интернет магазина — одно из главных условий для успешной рекламы своего продукта и поиска новых постоянных клиентов.</p><h5 className={styles.portfolioСase__heading}>Какую задачу перед нами поставил заказчик:</h5><p className={styles.portfolioСase__text}>Нам была поставлена задача — создать “под ключ” интернет-магазин компании, создать единый каталог товаров, сделать регистрацию удобной, провести SEO-оптимизацию.</p><h5 className={styles.portfolioСase__heading}>Что мы предложили:</h5><p className={styles.portfolioСase__text}>Мы решили создать вкусный и сочный дизайн, не перегруженный элементами. В основу дизайна легли изображение соответствующих фруктов, для подчеркивания натуральности напитка. Яркие цвета усиливают визуальное восприятие и создают приятные впечатления. Сочность манящих фруктов провоцирует вкусовые рецепторы, пробуждая желание обязательно попробовать и насладиться напитком. В каталоге большое количество товаров и характеристик, по которым можно фильтровать товары. Чтобы страницы фильтров хорошо ранжировались поисковыми системами, мы настроили SEO-фильтры. Адаптивная верстка и интуитивно понятный интерфейс позволят пользователю с любым устройством без труда найти всю интересующую информацию, сделать заказ и связаться с производителем.</p>"
+		},
+		{
+			"id": "3",
+			"title": "Постер к фильму “Любовь живет три года”",
+			"images": [
+				"/images/bus-stop-1280x1280.webp",
+				"/images/street-billboard.webp",
+				"/images/popcorn-scaled.webp",
+				"/images/bus-stop-scaled.webp"
+			],
+			"imgnavlink": [
+				"/images/laptop-160x160.webp",
+				"/images/fresh-bar-160x160.webp"
+			],
+			"navlink": ["/razrabotka-sajtov"],
+			"category": ["all", "advertisement"],
+			"portfoliolink": "/portfolio/poster-k-filmu-lyubov-zhivet-tri-goda",
+			"categorytitle": ["Наружная реклама"],
+			"text": "<h2 className={styles.portfolioСase__subtitle}>Кейс: Постер к фильму “L’amour dure trois ans”</h2><ul className={styles.portfolioСase__socialLinks}><li><a href='https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbrainagency.eu%2Fportfolio%2F%D0%BF%D0%BE%D1%81%D1%82%D0%B5%D1%80-%D0%BA-%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%83-%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C-%D0%B6%D0%B8%D0%B2%D0%B5%D1%82-%D1%82%D1%80%D0%B8-%D0%B3%D0%BE%D0%B4%D0%B0%2F' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/facebook.webp' alt='facebook-icon' width={26} height={26}/></a></li><li><a href='https://twitter.com/intent/tweet?text=https://brainagency.eu/portfolio/%d0%bf%d0%be%d1%81%d1%82%d0%b5%d1%80-%d0%ba-%d1%84%d0%b8%d0%bb%d1%8c%d0%bc%d1%83-%d0%bb%d1%8e%d0%b1%d0%be%d0%b2%d1%8c-%d0%b6%d0%b8%d0%b2%d0%b5%d1%82-%d1%82%d1%80%d0%b8-%d0%b3%d0%be%d0%b4%d0%b0/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/twitter.webp' alt='twitter-icon' width={26} height={26}/></a></li><li><a href='https://www.linkedin.com/shareArticle?url=https://brainagency.eu/portfolio/%d0%bf%d0%be%d1%81%d1%82%d0%b5%d1%80-%d0%ba-%d1%84%d0%b8%d0%bb%d1%8c%d0%bc%d1%83-%d0%bb%d1%8e%d0%b1%d0%be%d0%b2%d1%8c-%d0%b6%d0%b8%d0%b2%d0%b5%d1%82-%d1%82%d1%80%d0%b8-%d0%b3%d0%be%d0%b4%d0%b0/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/linkedin.webp' alt='linkedin-icon' width={26} height={26}/></a></li><li><a href='https://vk.com/share.php?url=https://brainagency.eu/portfolio/%d0%bf%d0%be%d1%81%d1%82%d0%b5%d1%80-%d0%ba-%d1%84%d0%b8%d0%bb%d1%8c%d0%bc%d1%83-%d0%bb%d1%8e%d0%b1%d0%be%d0%b2%d1%8c-%d0%b6%d0%b8%d0%b2%d0%b5%d1%82-%d1%82%d1%80%d0%b8-%d0%b3%d0%be%d0%b4%d0%b0/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/vk.webp' alt='vk-icon' width={26} height={26}/></a></li></ul><h5 className={styles.portfolioСase__heading}>О компании:</h5><p className={styles.portfolioСase__text}>Литературный критик днем и хроникер светских тусовок по ночам, только что развелся с женой. Он уверен, что любовь живет три года. Он даже сформулировал свой собственный закон: сначала ваша жизнь солнечна и чудесна, на второй года вы начинаете засматриваться на посторонних девушек, на третий – ваша женщина уходит, а вы начинаете писать об этом книгу.</p><h5 className={styles.portfolioСase__heading}>Какую задачу перед нами поставил заказчик:</h5><p className={styles.portfolioСase__text}>Задача загнать суть всего фильма в одно изображение. Для успешного решения задачи постер должен быть привлекательным для зрителя и хорошо заметным на расстоянии на фоне других средств визуальной информации.</p><h5 className={styles.portfolioСase__heading}>Что мы предложили:</h5><p className={styles.portfolioСase__text}>«Любовь живёт три года» (фр. L’amour dure trois ans) — французский кинофильм. В центре картины никогда никого не любивший больше трех лет журналист, у которого на этот счет есть своя собственная теория. Наше агентство предложило использовать оформление во французском стиле. Изображение дает наглядное представление о визуальной стилистике фильма, которое невозможно получить из текстового описания. Красный и черный – любимые цвета парижанок. И если черный цвет можно увидеть в большом количестве, то красный наоборот. Постер адаптирован для упаковки попкорна.</p>"
+		},
+		{
+			"id": "4",
+			"title": "Фреш-бар “Fresh Juice”",
+			"images": [
+				"/images/fresh-juice-img-1.webp",
+				"/images/fresh-juice-img-2.webp",
+				"/images/fresh-juice-img-3.webp",
+				"/images/fresh-juice-img-4.webp"
+			],
+			"imgnavlink": [
+				"/images/bus-stop-160x160.webp",
+				"/images/sweet-food-vizualization-160x160.webp"
+			],
+			"navlink": ["/graficheskij-dizajn", "/smm"],
+			"category": ["all", "smm", "design"],
+			"portfoliolink": "/portfolio/fresh-bar-fresh-juice",
+			"categorytitle": ["Графический дизайн", "SMM"],
+			"text": "<h2 className={styles.portfolioСase__subtitle}>Кейс Графический дизайн и SMM для «Fresh Juice»</h2><ul className={styles.portfolioСase__socialLinks}><li><a href='https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbrainagency.eu%2Fportfolio%2F%D1%84%D1%80%D0%B5%D1%88-%D0%B1%D0%B0%D1%80-fresh-juice%2F' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/facebook.webp' alt='facebook-icon' width={26} height={26}/></a></li><li><a href='https://twitter.com/intent/tweet?text=https://brainagency.eu/portfolio/%d1%84%d1%80%d0%b5%d1%88-%d0%b1%d0%b0%d1%80-fresh-juice/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/twitter.webp' alt='twitter-icon' width={26} height={26}/></a></li><li><a href='https://www.linkedin.com/shareArticle?url=https://brainagency.eu/portfolio/%d1%84%d1%80%d0%b5%d1%88-%d0%b1%d0%b0%d1%80-fresh-juice/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/linkedin.webp' alt='linkedin-icon' width={26} height={26}/></a></li><li><a href='https://vk.com/share.php?url=https://brainagency.eu/portfolio/%d1%84%d1%80%d0%b5%d1%88-%d0%b1%d0%b0%d1%80-fresh-juice/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/vk.webp' alt='vk-icon' width={26} height={26}/></a></li></ul><h5 className={styles.portfolioСase__heading}>О компании:</h5><p className={styles.portfolioСase__text}>Фреш-бар «Fresh Juice» – предлагает вам с пользой провести время. Всевозможные соки и фрэши в дополнение к другим сочным коктейлям и закускам помогут вам поддерживать себя в форме.</p><h5 className={styles.portfolioСase__heading}>Какую задачу перед нами поставил заказчик:</h5><p className={styles.portfolioСase__text}>Перед нами была поставлена задача разработать фирменный стиль, и оформить посты в социальных сетях.</p><h5 className={styles.portfolioСase__heading}>Что мы предложили:</h5><p className={styles.portfolioСase__text}>Начнем с логотипа. Красивое, винтажное написание названия задает нужный ритм. Также можно наблюдать веточку. Остальные все детали выполнены в простом и лаконичном стиле. Самое главное, что они сделаны вкусно. При разработке фирменного стиля компании одним из самых важных моментов является выбор фирменного цвета, сочетаний цветов или их оттенков. Ведь всем известно, что каждый цвет может по-своему влиять на психологию человека, вызывая положительные или отрицательные эмоции и ассоциации, тем самым задавая настроение. Розовый цвет символизирует добро, молодость, женственность, романтику, невинность, любовь. Он способен притупить чувства агрессии и гнева. Розовый цвет стал доминирующим в разработке стиля для “Fresh Juice”</p>"
+		},
+		{
+			"id": "5",
+			"title": "Сайт “Sweet Food”",
+			"images": [
+				"/images/sweet-food-vizualization-1280x1154.webp",
+				"/images/sweet-food-view-scaled.webp",
+				"/images/test-scaled.webp",
+				"/images/sweet-food-img-1.webp",
+				"/images/sweet-food-img-2.webp",
+				"/images/sweet-food-tablet.webp",
+				"/images/sweet-food-vizualization.webp"
+			],
+			"imgnavlink": [
+				"/images/main-avve-160x160.webp",
+				"/images/fresh-bar-160x160.webp"
+			],
+			"navlink": ["/razrabotka-sajtov"],
+			"category": ["all", "website"],
+			"portfoliolink": "/portfolio/sajt-sweet-food",
+			"categorytitle": ["Разработка сайта"],
+			"text": "<h2 className={styles.portfolioСase__subtitle}>Кейс разработка сайта для «Sweet Food»</h2><ul className={styles.portfolioСase__socialLinks}><li><a href='https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbrainagency.eu%2Fportfolio%2F%D1%81%D0%B0%D0%B9%D1%82-sweet-food%2F' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/facebook.webp' alt='facebook-icon' width={26} height={26}/></a></li><li><a href='https://twitter.com/intent/tweet?text=https://brainagency.eu/portfolio/%d1%81%d0%b0%d0%b9%d1%82-sweet-food/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/twitter.webp' alt='twitter-icon' width={26} height={26}/></a></li><li><a href='https://www.linkedin.com/shareArticle?url=https://brainagency.eu/portfolio/%d1%81%d0%b0%d0%b9%d1%82-sweet-food/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/linkedin.webp' alt='linkedin-icon' width={26} height={26}/></a></li><li><a href='https://vk.com/share.php?url=https://brainagency.eu/portfolio/%d1%81%d0%b0%d0%b9%d1%82-sweet-food/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/vk.webp' alt='vk-icon' width={26} height={26}/></a></li></ul><h5 className={styles.portfolioСase__heading}>О компании:</h5><p className={styles.portfolioСase__text}>Кондитерская компания «Sweet Food» — производитель тортов. При производстве кондитерских изделий большое внимание уделяется качеству продукции, используется натуральное сырьё: сливки, молоко сгущённое, фрукты, ягоды, мёд и шоколад</p><h5 className={styles.portfolioСase__heading}>Какую задачу перед нами поставил заказчик:</h5><p className={styles.portfolioСase__text}>Создать современный сайт по изготовлению тортов на заказ с функционалом интернет – магазина.</p><h5 className={styles.portfolioСase__heading}>Что мы предложили:</h5><p className={styles.portfolioСase__text}>При отрисовки дизайна опирались на исходные данный по целевой аудитории (женщины в возрасте 25 – 55 лет) предпочитающие перед заказом посмотреть большое количество фото тортов. Веб дизайн сайта был направлен в первую очередь на удобство навигации и хорошее визуальное восприятие. Фотографии должны быть большими и с возможностью рассмотреть все детали тортика. Для изготовления тортов на заказ – необходимо четко понимать на какое количество персон он рассчитан, сколько в нем должно быть ярусов и т.д.</p>"
+		},
+		{
+			"id": "6",
+			"title": "Сайт “AVVE”",
+			"images": [
+				"/images/main-avve-1280x1280.webp",
+				"/images/avve-scaled.webp",
+				"/images/main-avve-scaled.webp",
+				"/images/mob-scaled.webp",
+				"/images/tablet-scaled.webp"
+			],
+			"imgnavlink": [
+				"/images/sweet-food-vizualization-160x160.webp",
+				"/images/liga-presentation-160x160.webp"
+			],
+			"navlink": ["/razrabotka-sajtov"],
+			"category": ["all", "website"],
+			"portfoliolink": "/portfolio/sajt-avve",
+			"categorytitle": ["Разработка сайта"],
+			"text": "<h2 className={styles.portfolioСase__subtitle}>Кейс разработка сайта для «AVVE»</h2><ul className={styles.portfolioСase__socialLinks}><li><a href='https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbrainagency.eu%2Fportfolio%2F%D1%81%D0%B0%D0%B9%D1%82-avve%2F' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/facebook.webp' alt='facebook-icon' width={26} height={26}/></a></li><li><a href='https://twitter.com/intent/tweet?text=https://brainagency.eu/portfolio/%d1%81%d0%b0%d0%b9%d1%82-avve/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/twitter.webp' alt='twitter-icon' width={26} height={26}/></a></li><li><a href='https://www.linkedin.com/shareArticle?url=https://brainagency.eu/portfolio/%d1%81%d0%b0%d0%b9%d1%82-avve/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/linkedin.webp' alt='linkedin-icon' width={26} height={26}/></a></li><li><a href='https://vk.com/share.php?url=https://brainagency.eu/portfolio/%d1%81%d0%b0%d0%b9%d1%82-avve/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/vk.webp' alt='vk-icon' width={26} height={26}/></a></li></ul><h5 className={styles.portfolioСase__heading}>О компании:</h5><p className={styles.portfolioСase__text}>AVVE -международная транспортно – экспедиторская компания, 20 лет успешно работающая на международном рынке грузоперевозок.</p><h5 className={styles.portfolioСase__heading}>Какую задачу перед нами поставил заказчик:</h5><p className={styles.portfolioСase__text}>Разработать сайт на 4 языках, на главной странице тематическое видео, обязательно форма заказа, модуль обратной связи, расчет цен. Подключение гугл аналитики, социальных сетей, настройка почта под доменное имя, SEO настройка. Адаптивный дизайн под все виды устройств.</p><h5 className={styles.portfolioСase__heading}>Что мы предложили:</h5><p className={styles.portfolioСase__text}>Создать сайт грузоперевозки, значит разработать основной источник информации о компании, который будет работать 24/7. Клиенты ценят, когда им предоставляют информацию легко и доступно. Разместив на сайте сведения об услугах, ценах и самой компании – это повысило значимость авторитета в глазах клиента. Таким образом клиент экономит время на установления первого контакта. Ну и конечно же, у современного сайта должна быть безупречная адаптивная верстка под все виды экранов и браузеров. Более 50% посещений сайтов логистических компаний – с планшетов и смартфонов. Сайт идеально выглядит и на стационарном и на планшете, и на смартфоне.</p>"
+		},
+		{
+			"id": "7",
+			"title": "SPA Салон “Liga”",
+			"images": [
+				"/images/liga-presentation.webp",
+				"/images/salon.webp",
+				"/images/liga-salon-scaled.webp",
+				"/images/liga-presentation-scaled.webp"
+			],
+			"imgnavlink": [
+				"/images/main-avve-160x160.webp",
+				"/images/extra-pizza-160x160.webp"
+			],
+			"navlink": ["/smm", "/graficheskij-dizajn"],
+			"category": ["smm"],
+			"portfoliolink": "/portfolio/spa-salon-liga",
+			"categorytitle": ["Графический дизайн", "SMM"],
+			"text": "<h2 className={styles.portfolioСase__subtitle}>Кейс SMM для SPA Салона “Liga”</h2><ul className={styles.portfolioСase__socialLinks}><li><a href='https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbrainagency.eu%2Fportfolio%2Fspa-salon-liga%2F' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/facebook.webp' alt='facebook-icon' width={26} height={26}/></a></li><li><a href='https://twitter.com/intent/tweet?text=https://brainagency.eu/portfolio/spa-salon-liga/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/twitter.webp' alt='twitter-icon' width={26} height={26}/></a></li><li><a href='https://www.linkedin.com/shareArticle?url=https://brainagency.eu/portfolio/spa-salon-liga/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/linkedin.webp' alt='linkedin-icon' width={26} height={26}/></a></li><li><a href='https://vk.com/share.php?url=https://brainagency.eu/portfolio/spa-salon-liga/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/vk.webp' alt='vk-icon' width={26} height={26}/></a></li></ul><h5 className={styles.portfolioСase__heading}>Какую задачу перед нами поставил заказчик:</h5><p className={styles.portfolioСase__text}>Повышение посещаемости салона через социальные сети, увеличение числа подписчиков (потенциальных клиентов), повысить узнаваемость студии</p><h5 className={styles.portfolioСase__heading}>Что мы предложили:</h5><p className={styles.portfolioСase__text}>Разработать правила коммуникации с подписчиками. Привлечь блогеров для рекламы. Запустить официальную рекламу FB/ Instagram. Запустить конкурсы и акции. После этого нужно упаковать это все в сообщества с хорошими текстами, публиковать контент и давать этому охват по нужным людям (ЦА) — и тогда все получится.</p><h5 className={styles.portfolioСase__heading}>Над чем конкретно велась работа и что было сделано:</h5><p className={styles.portfolioСase__text}>Создание и оформление сообществ в FB и Instagram. Создание и публикация контента. Таргетированная реклама на привлечение гостей и подписчиков в FB и Instagram. Massfollowing в Instagram. Привлечение двух блогеров. Публикация положительных отзывов клиентов (с фото). Цитаты/инфографика/мифы. Реклама акций в Instagram – формат Stories. Использовали различные конкурсы, развлечения с поощрительными подарками.</p>"
+		},
+		{
+			"id": "8",
+			"title": "Пиццерия “Extra Pizza”",
+			"images": [
+				"/images/extra-pizza-img-1.webp",
+				"/images/extra-pizza-img-2.webp",
+				"/images/extra-pizza-img-3.webp",
+				"/images/extra-pizza-img-4.webp",
+				"/images/extra-pizza-img-5.webp"
+			],
+			"imgnavlink": [
+				"/images/liga-presentation-160x160.webp",
+				"/images/turkish-doner-kebabs-160x160.webp"
+			],
+			"navlink": ["/smm", "/graficheskij-dizajn"],
+			"category": ["smm"],
+			"portfoliolink": "/portfolio/picceriya-extra-pizza",
+			"categorytitle": ["Графический дизайн", "SMM"],
+			"text": "<h2 className={styles.portfolioСase__subtitle}>Кейс SMM для Пиццерия “Extra Pizza”</h2><ul className={styles.portfolioСase__socialLinks}><li><a href='https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbrainagency.eu%2Fportfolio%2Fpicceriya-extra-pizza%2F' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/facebook.webp' alt='facebook-icon' width={26} height={26}/></a></li><li><a href='https://twitter.com/intent/tweet?text=https://brainagency.eu/portfolio/picceriya-extra-pizza/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/twitter.webp' alt='twitter-icon' width={26} height={26}/></a></li><li><a href='https://www.linkedin.com/shareArticle?url=https://brainagency.eu/portfolio/picceriya-extra-pizza/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/linkedin.webp' alt='linkedin-icon' width={26} height={26}/></a></li><li><a href='https://vk.com/share.php?url=https://brainagency.eu/portfolio/picceriya-extra-pizza/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/vk.webp' alt='vk-icon' width={26} height={26}/></a></li></ul><h5 className={styles.portfolioСase__heading}>Какую задачу перед нами поставил заказчик:</h5><p className={styles.portfolioСase__text}>Увеличить число посетителей, привлечь новых подписчиков с помощью социальных сетей.</p><h5 className={styles.portfolioСase__heading}>Что мы предложили:</h5><p className={styles.portfolioСase__text}>Разработка правил коммуникации с подписчиками. Заказать профессиональную фотосессию для блюд, чтобы вызвать аппетит. «Вкусные» фотографии, вызывающие аппетит и показывающие отношение владельцев к своему продукту. Достаточно выгодные акции для клиентов. После этого нужно упаковать это все в сообщества с хорошими текстами, публиковать контент и давать этому охват по нужным людям (ЦА) — и тогда все получится.</p><h5 className={styles.portfolioСase__heading}>Над чем конкретно велась работа и что было сделано:</h5><p className={styles.portfolioСase__text}>Создание и оформление сообществ в FB и Instagram. Создание и публикация контента. Таргетированная реклама на привлечение гостей и подписчиков в FB и Instagram. Massfollowing в Instagram. Доброжелательное и искреннее комментирование постов. Использовали различные конкурсы, развлечения, «угадайки», Like, Share & Win с поощрительными подарками.</p>"
+		},
+		{
+			"id": "9",
+			"title": "Кебаб “Turkish Doner”",
+			"images": [
+				"/images/turkish-doner-kebabs-1280x1280.webp",
+				"/images/kebab-facebook-scaled.webp",
+				"/images/kebab-scaled.webp"
+			],
+			"imgnavlink": [
+				"/images/extra-pizza-160x160.webp",
+				"/images/cod-restaraunt-presentation-160x160.webp"
+			],
+			"navlink": ["/smm"],
+			"category": ["smm"],
+			"portfoliolink": "/portfolio/kebab-turkish-doner",
+			"categorytitle": ["SMM"],
+			"text": "<h2 className={styles.portfolioСase__subtitle}>Кейс SMM для «Turkish Doner» Кебаб</h2><ul className={styles.portfolioСase__socialLinks}><li><a href='https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbrainagency.eu%2Fportfolio%2Fkebab-turkish-doner%2F' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/facebook.webp' alt='facebook-icon' width={26} height={26}/></a></li><li><a href='https://twitter.com/intent/tweet?text=https://brainagency.eu/portfolio/kebab-turkish-doner/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/twitter.webp' alt='twitter-icon' width={26} height={26}/></a></li><li><a href='https://www.linkedin.com/shareArticle?url=https://brainagency.eu/portfolio/kebab-turkish-doner/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/linkedin.webp' alt='linkedin-icon' width={26} height={26}/></a></li><li><a href='https://vk.com/share.php?url=https://brainagency.eu/portfolio/kebab-turkish-doner/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/vk.webp' alt='vk-icon' width={26} height={26}/></a></li></ul><h5 className={styles.portfolioСase__heading}>Какую задачу перед нами поставил заказчик:</h5><p className={styles.portfolioСase__text}>Увеличить число посетителей, выйти на доходность, привлечь новых подписчиков с помощью социальных сетей.</p><h5 className={styles.portfolioСase__heading}>Что мы предложили:</h5><p className={styles.portfolioСase__text}>Заказать профессиональную фотосессию для блюд в стиле food-porn, чтобы подчеркнуть большой размер порций и вызвать аппетит.&nbsp; «Вкусные» фотографии, вызывающие аппетит и показывающие отношение владельцев к своему продукту. Усилить УТП – бесплатную доставку по району: в шапке профиля, в постах и сторис. Заменить полиграфию в кафе, заказать настольные тейблтенды, где указали, что за фото в нашем кафе и упоминание на личной странице в Инстаграм мы дарим бесплатный американо или чай к заказам.</p><h5 className={styles.portfolioСase__heading}>Над чем конкретно велась работа и что было сделано:</h5><p className={styles.portfolioСase__text}>Создание и оформление сообществ в FB и Instagram. Создание и публикация контента. Таргетированная реклама на привлечение гостей и подписчиков в FB и Instagram. Massfollowing в Instagram. Доброжелательное и искреннее комментирование постов. Снимали небольшие видеоролики приготовления шаурмы, которые набирали много просмотров. Использовали различные конкурсы, развлечения и “угадайки” поощрительными подарками в виде кебабов.</p>"
+		},
+		{
+			"id": "10",
+			"title": "“Cod” Ресторан",
+			"images": [
+				"/images/cod-restaraunt-presentation-e1615973282321.webp",
+				"/images/cod-restaraunt-presentation-2.webp",
+				"/images/cod-restaurant-scaled.webp"
+			],
+			"imgnavlink": [
+				"/images/turkish-doner-kebabs-160x160.webp",
+				"/images/agribaltic-min-160x160.webp"
+			],
+			"navlink": ["/smm"],
+			"category": ["smm"],
+			"portfoliolink": "/portfolio/cod-restoran",
+			"categorytitle": ["SMM"],
+			"text": "<h2 className={styles.portfolioСase__subtitle}>Кейс SMM для «Turkish Doner» Кебаб</h2><ul className={styles.portfolioСase__socialLinks}><li><a href='https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbrainagency.eu%2Fportfolio%2Fcod-restoran%2F' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/facebook.webp' alt='facebook-icon' width={26} height={26}/></a></li><li><a href='https://twitter.com/intent/tweet?text=https://brainagency.eu/portfolio/cod-restoran/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/twitter.webp' alt='twitter-icon' width={26} height={26}/></a></li><li><a href='https://www.linkedin.com/shareArticle?url=https://brainagency.eu/portfolio/%d0%bb%d0%be%d0%b3%d0%be%d1%82%d0%b8%d0%bf-agribaltic/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/linkedin.webp' alt='linkedin-icon' width={26} height={26}/></a></li><li><a href='https://vk.com/share.php?url=https://brainagency.eu/portfolio/%d0%bb%d0%be%d0%b3%d0%be%d1%82%d0%b8%d0%bf-agribaltic/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/vk.webp' alt='vk-icon' width={26} height={26}/></a></li></ul><h5 className={styles.portfolioСase__heading}>Какую задачу перед нами поставил заказчик:</h5><p className={styles.portfolioСase__text}>Привлечь внимание жителей с помощью соцсетей и привести как можно больше людей в заведение.</p><h5 className={styles.portfolioСase__heading}>Что мы предложили:</h5><p className={styles.portfolioСase__text}>По нашему опыту для успешного запуска необходимы следующие составляющие: «Вкусные» фотографии, вызывающие аппетит и показывающие отношение владельцев к своему продукту (что-то вроде: «Мы не просто хотим денег, мы хотим, чтобы вы попробовали наш продукт, ведь он реально хорош»). Достаточно выгодная для клиентов акция. После этого нужно упаковать это все в сообщества с хорошими текстами, публиковать контент и давать этому охват по нужным людям (ЦА) — и тогда все получится.</p><h5 className={styles.portfolioСase__heading}>Над чем конкретно велась работа и что было сделано:</h5><p className={styles.portfolioСase__text}>Создание и оформление сообществ в FB и Instagram. Создание и публикация контента. Таргетированная реклама на привлечение гостей и подписчиков в FB и Instagram. Massfollowing в Instagram.</p>"
+		},
+		{
+			"id": "11",
+			"title": "Логотип “AgriBaltic”",
+			"images": [
+				"/images/logo-agri-baltic.webp",
+				"/images/logo-agri-baltic-mob.webp",
+				"/images/logo-agri-baltic-2.webp",
+				"/images/logo-agri-baltic-info.webp"
+			],
+			"imgnavlink": [
+				"/images/cod-restaraunt-presentation-160x160.webp",
+				"/images/laptop-160x160.webp"
+			],
+			"navlink": ["/graficheskij-dizajn"],
+			"category": ["design"],
+			"portfoliolink": "/portfolio/logotip-agribaltic",
+			"categorytitle": ["Графический дизайн"],
+			"text": "<h2 className={styles.portfolioСase__subtitle}>Кейс Графический дизайн для «AgriBaltic»</h2><ul className={styles.portfolioСase__socialLinks}><li><a href='https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbrainagency.eu%2Fportfolio%2F%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF-agribaltic%2F' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/facebook.webp' alt='facebook-icon' width={26} height={26}/></a></li><li><a href='https://twitter.com/intent/tweet?text=https://brainagency.eu/portfolio/%d0%bb%d0%be%d0%b3%d0%be%d1%82%d0%b8%d0%bf-agribaltic/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/twitter.webp' alt='twitter-icon' width={26} height={26}/></a></li><li><a href='https://www.linkedin.com/shareArticle?url=https://brainagency.eu/portfolio/%d0%bb%d0%be%d0%b3%d0%be%d1%82%d0%b8%d0%bf-agribaltic/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/linkedin.webp' alt='linkedin-icon' width={26} height={26}/></a></li><li><a href='https://vk.com/share.php?url=https://brainagency.eu/portfolio/%d0%bb%d0%be%d0%b3%d0%be%d1%82%d0%b8%d0%bf-agribaltic/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/vk.webp' alt='vk-icon' width={26} height={26}/></a></li></ul><h5 className={styles.portfolioСase__heading}>О компании:</h5><p className={styles.portfolioСase__text}>Компания «AgriBaltic» – компания занимается поставкой и ремонтом сельхозтехники.</p><h5 className={styles.portfolioСase__heading}>Какую задачу перед нами поставил заказчик:</h5><p className={styles.portfolioСase__text}>Перед нами была поставлена задача разработать логотип из аббревиатур букв и использовать зелено-желтые цвета.</p><h5 className={styles.portfolioСase__heading}>Что мы предложили:</h5><p className={styles.portfolioСase__text}>Аббревиатуры хорошо воспринимаются как визуально, так и на слух. Буквы — простой и узнаваемый элемент. Согласитесь, что запомнить их всегда проще, чем эмблему, знак или символ. Но, чтобы дизайн лого не был слишком простой, нужно сделать фокус на изящный запоминаемый шрифт или его стилистическое оформление. Что и было предложено нашей компанией ООО Ваша компания.</p>"
+		},
+		{
+			"id": "12",
+			"title": "Логотип “Smart Land”",
+			"images": [
+				"/images/smartland-1280x1280.webp",
+				"/images/smartland-scaled.webp",
+				"/images/info-logo-scaled.webp"
+			],
+			"imgnavlink": [
+				"/images/agribaltic-min-160x160.webp",
+				"/images/logo-rekolog-160x160.webp"
+			],
+			"navlink": ["/graficheskij-dizajn"],
+			"category": ["design"],
+			"portfoliolink": "/portfolio/logotip-smart-land",
+			"categorytitle": ["Графический дизайн"],
+			"text": "<h2 className={styles.portfolioСase__subtitle}>Кейс Графический дизайн для «Smart Land»</h2><ul className={styles.portfolioСase__socialLinks}><li><a href='https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbrainagency.eu%2Fportfolio%2F%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF-smar' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/facebook.webp' alt='facebook-icon' width={26} height={26}/></a></li><li><a href='https://twitter.com/intent/tweet?text=https://brainagency.eu/portfolio/%d0%bb%d0%be%d0%b3%d0%be%d1%82%d0%b8%d0%bf-smart-land/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/twitter.webp' alt='twitter-icon' width={26} height={26}/></a></li><li><a href='https://www.linkedin.com/shareArticle?url=https://brainagency.eu/portfolio/%d0%bb%d0%be%d0%b3%d0%be%d1%82%d0%b8%d0%bf-smart-land/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/linkedin.webp' alt='linkedin-icon' width={26} height={26}/></a></li><li><a href='https://vk.com/share.php?url=https://brainagency.eu/portfolio/%d0%bb%d0%be%d0%b3%d0%be%d1%82%d0%b8%d0%bf-smart-land/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/vk.webp' alt='vk-icon' width={26} height={26}/></a></li></ul><h5 className={styles.portfolioСase__heading}>О компании:</h5><p className={styles.portfolioСase__text}>Центр “SmartLand” предлагает несколько направлений по развитию детей. Изучение языков с помощью игрушек Playmobil, раннее музыкальное развитие и песочную терапию.</p><h5 className={styles.portfolioСase__heading}>Какую задачу перед нами поставил заказчик:</h5><p className={styles.portfolioСase__text}>Основательница центра не ставила перед нам четких задач, основным пожеланием было использовать цвета Playmobil.</p><h5 className={styles.portfolioСase__heading}>Что мы предложили:</h5><p className={styles.portfolioСase__text}>Центр работает с детьми, очень хотелось отобразить это в логотипе и в то же время, мы хотели подчеркнуть стабильность и серьёзность центра. Цвета, которые мы должны были использовать в разработке логотипа — голубой, синий, оранжевый. Начали перебирать ассоциации с детством. Наш дизайнер, Алёна, которая работала над разработкой логотипа предложила взять за основу облако – это объяснила так, что когда дети смотрят на облака, представляют, как же наверно, здорово поваляться на них, как на мягкой и уютной перине, а кто-то видит в них сладкую вату и, что их можно кушать. Наверняка, каждый из нас, когда был ребенком и мечтал вырасти, и дотянуться до облака, почувствовать его на вкус. И к тому же, облако идеально подходит нам по цветам. Решено было использовать именно облачную ассоциацию, добавили нашему облаку строгости и серьезности, как мы и задумывали с самого начала. Название сделали оранжевым цветом.  Все условия были соблюдены.</p>"
+		},
+		{
+			"id": "13",
+			"title": "Логотип “Rekolog”",
+			"images": [
+				"/images/logo-rekolog-1280x1154.webp",
+				"/images/rekolog-visualisation.webp",
+				"/images/logo-rekolog.webp",
+				"/images/rekolog.webp",
+				"/images/rekolog-1.webp"
+			],
+			"imgnavlink": [
+				"/images/smartland-160x160.webp",
+				"/images/kalka-nams-visualisation-160x160.webp"
+			],
+			"navlink": ["/graficheskij-dizajn", "/naruzhnaya-reklama"],
+			"category": ["design", "advertisement"],
+			"portfoliolink": "/portfolio/logotip-rekolog",
+			"categorytitle": ["Графический дизайн", "Наружная реклама"],
+			"text": "<h2 className={styles.portfolioСase__subtitle}>Кейс Графический дизайн для «Rekolog»</h2><ul className={styles.portfolioСase__socialLinks}><li><a href='https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbrainagency.eu%2Fportfolio%2Flogo-rekolog%2F' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/facebook.webp' alt='facebook-icon' width={26} height={26}/></a></li><li><a href='https://twitter.com/intent/tweet?text=https://brainagency.eu/portfolio/logo-rekolog/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/twitter.webp' alt='twitter-icon' width={26} height={26}/></a></li><li><a href='https://www.linkedin.com/shareArticle?url=https://brainagency.eu/portfolio/logo-rekolog/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/linkedin.webp' alt='linkedin-icon' width={26} height={26}/></a></li><li><a href='https://vk.com/share.php?url=https://brainagency.eu/portfolio/logo-rekolog/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/vk.webp' alt='vk-icon' width={26} height={26}/></a></li></ul><h5 className={styles.portfolioСase__heading}>О компании:</h5><p className={styles.portfolioСase__text}>«Rekolog» — международная логистическая компания. Одна из лучших транспортных компаний в Германии, которая занимается организацией грузоперевозок по территории ЕС.</p><h5 className={styles.portfolioСase__heading}>Какую задачу перед нами поставил заказчик:</h5><p className={styles.portfolioСase__text}>Заказчик полностью предоставил нам свободу действий и положился на наш профессионализм.</p><h5 className={styles.portfolioСase__heading}>Что мы предложили:</h5><p className={styles.portfolioСase__text}>Данный проект давал нам полную свободу действий в творчестве. Первое с чего мы начали — это определиться каким будет логотип — буквенным, картинкой, абстрактным или комбинированным. Наша команда остановилась на комбинированном варианте. Он одновременно состоит из текственного компонента и изображения. «Rekolog» занимается автоперевозками, а это дороги, поэтому было принято решение использовать дизайнерский шрифт, чтобы отобразить направление компании. Стиль шрифта выбрали из-за его вытянутых и уплотненных линий, что очень напоминает трассу. Мы выбрали комбинированный логотип, поэтому необходимо добавить изображение. Мы опять отталкивались от направления фирмы и обыграли одну из буквы О в логотипе в форме круга, который напоминает нашу Землю, сделав его в виде спирали, как серпантин. Цвет логотипа — буквенную часть решили оставить черной, а вот сам круг захотелось выделить и добавить логотипу выразительности. Остановили свой выбор на серебряном цвете — он воплощает в себе благородность, безопасность, прочность. Слова ассоциации: освещение, отражение. Это как раз то, что лежит в основе транспортной компании. Градиент (#fdfdfd — #467c81)</p>"
+		},
+		{
+			"id": "14",
+			"title": "Логотип “Kalku Nams”",
+			"images": [
+				"/images/kalka-nams-visualisation-1280x1154.webp",
+				"/images/kalka-nams-visualisation.webp"
+			],
+			"imgnavlink": [
+				"/images/logo-rekolog-160x160.webp",
+				"/images/banketu-fabrika-visualisation-160x160.webp"
+			],
+			"navlink": ["/graficheskij-dizajn"],
+			"category": ["design"],
+			"portfoliolink": "/portfolio/logotip-kalku-nams",
+			"categorytitle": ["Графический дизайн"],
+			"text": "<h2 className={styles.portfolioСase__subtitle}>Кейс Графический дизайн для «Kalku Nams»</h2><ul className={styles.portfolioСase__socialLinks}><li><a href='https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbrainagency.eu%2Fportfolio%2F%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF-kalku-nams%2F' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/facebook.webp' alt='facebook-icon' width={26} height={26}/></a></li><li><a href='https://twitter.com/intent/tweet?text=https://brainagency.eu/portfolio/%d0%bb%d0%be%d0%b3%d0%be%d1%82%d0%b8%d0%bf-kalku-nams/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/twitter.webp' alt='twitter-icon' width={26} height={26}/></a></li><li><a href='https://www.linkedin.com/shareArticle?url=https://brainagency.eu/portfolio/%d0%bb%d0%be%d0%b3%d0%be%d1%82%d0%b8%d0%bf-kalku-nams/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/linkedin.webp' alt='linkedin-icon' width={26} height={26}/></a></li><li><a href='https://vk.com/share.php?url=https://brainagency.eu/portfolio/%d0%bb%d0%be%d0%b3%d0%be%d1%82%d0%b8%d0%bf-kalku-nams/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/vk.webp' alt='vk-icon' width={26} height={26}/></a></li></ul><h5 className={styles.portfolioСase__heading}>О компании:</h5><p className={styles.portfolioСase__text}>«Kalku nams» — компания выполняет все виды работ по штукатурке и шпатлевке фасадов домов и коттеджей.</p><h5 className={styles.portfolioСase__heading}>Какую задачу перед нами поставил заказчик:</h5><p className={styles.portfolioСase__text}>Заказчик изначально не хотел видеть стандартные логотипы для компании, в виде шпателей, кисточек, валиков и т.д. Перед нами была поставлена задача сделать абстрактный логотип с буквой К.</p><h5 className={styles.portfolioСase__heading}>Что мы предложили:</h5><p className={styles.portfolioСase__text}>У всех логотипов есть форма. Нам нужно было разработать логотип, который несет в себе смысловую нагрузку и выделяется среди конкурентов. Так как задача — это абстрактный логотип, за основу было решено использовать геометрическую форму…в геометрии есть что-то вечное. Исследование психологии поведения потребителя и рекламы показывают, прямоугольники ассоциируются со стабильностью, надежностью, силой, порядком и предсказуемостью. Подумайте о кирпичах, которые используются для строительства прочных, устойчивых зданий. Это как раз то, что нужно! Мы захотели выйти за рамки плоскости и добавить больше объема и изгибов. Букву К было решено вынести на передний план. Так как наше агентство ООО Ваша компания следит за трендами, мы знаем, что минималистичные логотипы дополняют градиентом, чтобы придать им перелив (#542980 — #349cd5)</p>"
+		},
+		{
+			"id": "15",
+			"title": "Логотип “Banketu Fabrika”",
+			"images": [
+				"/images/banketu-fabrika-visualisation-1280x1154.webp",
+				"/images/banketu-fabrika-visualisation.webp"
+			],
+			"imgnavlink": [
+				"/images/kalka-nams-visualisation-160x160.webp",
+				"/images/siluets-visualization-160x160.webp"
+			],
+			"navlink": ["/graficheskij-dizajn"],
+			"category": ["design"],
+			"portfoliolink": "/portfolio/logotip-banketu-fabrika",
+			"categorytitle": ["Графический дизайн"],
+			"text": "<h2 className={styles.portfolioСase__subtitle}>Кейс Графический дизайн для “Banketu Fabrika”</h2><ul className={styles.portfolioСase__socialLinks}><li><a href='https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbrainagency.eu%2Fportfolio%2Flogotip-banketu-fabrika%2F' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/facebook.webp' alt='facebook-icon' width={26} height={26}/></a></li><li><a href='https://twitter.com/intent/tweet?text=https://brainagency.eu/portfolio/logotip-banketu-fabrika/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/twitter.webp' alt='twitter-icon' width={26} height={26}/></a></li><li><a href='https://www.linkedin.com/shareArticle?url=https://brainagency.eu/portfolio/logotip-banketu-fabrika/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/linkedin.webp' alt='linkedin-icon' width={26} height={26}/></a></li><li><a href='https://vk.com/share.php?url=https://brainagency.eu/portfolio/logotip-banketu-fabrika/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/vk.webp' alt='vk-icon' width={26} height={26}/></a></li></ul><h5 className={styles.portfolioСase__heading}>О компании:</h5><p className={styles.portfolioСase__text}>Banketu Fabrika» — главное направление завтраки, ланчи, выпечка, обслуживание банкетов, кейтеринг. У «Bankatu Fabrika» можно заказать доставку на дом или в офис.</p><h5 className={styles.portfolioСase__heading}>Какую задачу перед нами поставил заказчик:</h5><p className={styles.portfolioСase__text}>Владелица кафе – очень хотела видеть логотип в нежных и мягких тонах, стиль барокко.</p><h5 className={styles.portfolioСase__heading}>Что мы предложили:</h5><p className={styles.portfolioСase__text}>За основу логотипа был использован светло желто-зеленый оттенок (#ddeab1). Он нежен, свеж и располагает к общению. Вместе с ним прекрасно образует естественную пару пурпур, которую возможно увидеть в природе. И в то же время, она не теряет своей экзотичности, так как сам пурпур — редкий и яркий. Поэтому было принято решение добавить светло пурпурный оттенок (#d0aad0). Эффект барокко мы оформили в светло желтом оттенке (#d6df26), он непосредственно связан с основным цветом логотипа и прекрасно его дополняет. Решили добавить яркость и выразительность, и название «Banketu Fabrika» приобрело темно красный оттенок (#a63823). Все эти цвета прекрасно сочетаются и дополняют друг друга. Логотип «Banketu Fabrika» отлично поднимает настроение, снимает усталость и дарит улыбку, а это так важно при выборе кафе и заказе еды.</p>"
+		},
+		{
+			"id": "16",
+			"title": "Сайт “Siluets”",
+			"images": [
+				"/images/siluets-visualization-1280x1154.webp",
+				"/images/siluets-visualization.webp",
+				"/images/siluets-scaled.webp",
+				"/images/siluets-mob.webp"
+			],
+			"imgnavlink": [
+				"/images/banketu-fabrika-visualisation-160x160.webp",
+				"/images/beastclean-visualization-160x160.webp"
+			],
+			"navlink": ["/razrabotka-sajtov"],
+			"category": ["website"],
+			"portfoliolink": "/portfolio/sajt-siluets",
+			"categorytitle": ["Разработка сайта"],
+			"text": "<h2 className={styles.portfolioСase__subtitle}>Кейс разработка сайта для «Siluets»</h2><ul className={styles.portfolioСase__socialLinks}><li><a href='https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbrainagency.eu%2Fportfolio%2' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/facebook.webp' alt='facebook-icon' width={26} height={26}/></a></li><li><a href='https://twitter.com/intent/tweet?text=https://brainagency.eu/portfolio/%d1%81%d0%b0%d0%b9%d1%82-siluets/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/twitter.webp' alt='twitter-icon' width={26} height={26}/></a></li><li><a href='https://www.linkedin.com/shareArticle?url=https://brainagency.eu/portfolio/%d1%81%d0%b0%d0%b9%d1%82-siluets/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/linkedin.webp' alt='linkedin-icon' width={26} height={26}/></a></li><li><a href='https://vk.com/share.php?url=https://brainagency.eu/portfolio/%d1%81%d0%b0%d0%b9%d1%82-siluets/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/vk.webp' alt='vk-icon' width={26} height={26}/></a></li></ul><h5 className={styles.portfolioСase__heading}>О компании:</h5><p className={styles.portfolioСase__text}>Салон красоты «Siluets» в уютной и романтичной атмосфере вам окажут полный комплекс услуг по уходу за телом и лицом.</p><h5 className={styles.portfolioСase__heading}>Какую задачу перед нами поставил заказчик:</h5><p className={styles.portfolioСase__text}>Разработать сайт, где будут доступны описания услуг салона, а также в открытом доступе будут опубликованы цены.</p><h5 className={styles.portfolioСase__heading}>Что мы предложили:</h5><p className={styles.portfolioСase__text}>Кроме главных задач, озвученных владельцем, мы поставили перед собой цель — сформировать структуру сайта так, чтобы она способствовала продвижению в естественной выдаче поисковиков. Сайт собран на удобной и быстрой системе управления WordPress, поэтому администратору легко менять информацию на сайте и просто вносить новости. Ну и конечно же, у современного сайта должна быть безупречная адаптивная верстка под все виды экранов и браузеров. Более 50% посещений сайтов салонов красоты – с планшетов и смартфонов. Сайт идеально выглядит и на стационарном и на планшете, и на смартфоне.</p>"
+		},
+		{
+			"id": "17",
+			"title": "Сайт “Bestclean”",
+			"images": [
+				"/images/beastclean-visualization-1280x1154.webp",
+				"/images/beastclean-visualization.webp",
+				"/images/beastclean-scaled.webp",
+				"/images/bestclean-mob.webp"
+			],
+			"imgnavlink": [
+				"/images/siluets-visualization-160x160.webp",
+				"/images/laptop-160x160.webp"
+			],
+			"navlink": ["/razrabotka-sajtov"],
+			"category": ["website"],
+			"portfoliolink": "/portfolio/sajt-bestclean",
+			"categorytitle": ["Разработка сайта"],
+			"text": "<h2 className={styles.portfolioСase__subtitle}>Кейс разработка сайта для «Bestclean»</h2><ul className={styles.portfolioСase__socialLinks}><li><a href='https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbrainagency.eu%2Fportfolio%2F%D1%81%D0%B0%D0%B9%D1%82-bestclean%2F' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/facebook.webp' alt='facebook-icon' width={26} height={26}/></a></li><li><a href='https://twitter.com/intent/tweet?text=https://brainagency.eu/portfolio/%d1%81%d0%b0%d0%b9%d1%82-bestclean/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/twitter.webp' alt='twitter-icon' width={26} height={26}/></a></li><li><a href='https://www.linkedin.com/shareArticle?url=https://brainagency.eu/portfolio/%d1%81%d0%b0%d0%b9%d1%82-bestclean/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/linkedin.webp' alt='linkedin-icon' width={26} height={26}/></a></li><li><a href='https://vk.com/share.php?url=https://brainagency.eu/portfolio/%d1%81%d0%b0%d0%b9%d1%82-bestclean/' className={styles.portfolioСase__socialLink} target='_blank' rel='noopener noreferrer'><Image src='/images/vk.webp' alt='vk-icon' width={26} height={26}/></a></li></ul><h5 className={styles.portfolioСase__heading}>О компании:</h5><p className={styles.portfolioСase__text}>Фирма «Bestclean» – клининговая компания.</p><h5 className={styles.portfolioСase__heading}>Какую задачу перед нами поставил заказчик:</h5><p className={styles.portfolioСase__text}>Разработка адаптивного сайта, интуитивно понятного пользователю, с возможностью заказа уборки в онлайн-режиме.</p><h5 className={styles.portfolioСase__heading}>Что мы предложили:</h5>< className={styles.portfolioСase__text}>Мы предложили звучное название, которое легко произносится и запоминается – Best Clean.<br> Название состоит из 2 английских слов:<br> – clean (в переводе – “чистый”, “убирать”, “очищать”)<br> – best (в переводе – “лучший”, “совершенство”)<br> Название ассоциируется с порядком, надежностью, уборкой. В словосочетание заложен глубинный смысл и философия компании.<br> Быстрая загрузка веб-страницы поднимает сайт в результатах выдачи, удобная админ панель позволяет редактировать сайт даже неподготовленному пользователю; страница полностью адаптирована под мобильные устройства.</p>"
+		}
+	]
+}

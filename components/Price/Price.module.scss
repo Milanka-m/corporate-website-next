@@ -1,0 +1,172 @@
+.price {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	margin: auto;
+	background-image: url(../../assets/images/bgn-gray-curve-bottom-left-2.webp);
+	background-repeat: no-repeat;
+	background-position: bottom center;
+	background-size: contain;
+}
+
+.price__container {
+	width: 71vw;
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-start;
+	margin-bottom: 80px;
+}
+
+.price__imageContainer {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+}
+
+.price__image {
+	margin-bottom: 40px;
+}
+
+.price__content {
+	width: 58%;
+	padding-left: 40px;
+	display: flex;
+	flex-direction: column;
+}
+
+.price__title {
+	font-family: "Raleway", sans-serif;
+	color: #f43dd1;
+	font-size: 3.125em;
+	line-height: 1;
+	margin: 0;
+	font-weight: 800;
+	letter-spacing: -0.03em;
+	padding: 0 0 10px 0;
+	span {
+		font-family: "Open Sans", sans-serif;
+		font-weight: 600;
+		color: #210d94;
+		text-transform: uppercase;
+	}
+}
+
+.price__contentBonuses {
+	padding: 20px 0 50px;
+	display: flex;
+	justify-content: space-around;
+	align-items: flex-start;
+}
+
+.price__text {
+	font-family: "Open Sans", sans-serif;
+	font-weight: 400;
+	font-size: 0.9rem;
+	line-height: 1.5;
+	margin: 0;
+}
+
+#price__textList {
+	list-style: decimal;
+	padding-left: 20px;
+	margin: 0;
+}
+
+.price__item {
+	font-family: "Open Sans", sans-serif;
+	font-weight: 400;
+	font-size: 1rem;
+	line-height: 1.5;
+	margin: 0;
+	padding-top: 10px;
+	position: relative;
+	&::before,
+	&::after {
+		content: "";
+		position: absolute;
+		top: 22px;
+		left: -25px;
+		display: block;
+		width: 7px;
+		height: 2px;
+		background-color: #f43dd1;
+		transform: translate(-10px, 80%) rotate(45deg);
+	}
+	&::after {
+		transform: translate(-8px, -100%) rotate(-45deg);
+		width: 20px;
+		height: 2px;
+	}
+}
+
+.price__cardLink {
+	align-self: center;
+	margin-top: 50px;
+	padding: 26px 14px;
+	width: 152px;
+	position: relative;
+	display: flex;
+	justify-content: center;
+	box-sizing: border-box;
+	box-shadow: 0 20px 30px rgb(34 34 34 / 7%);
+	font-family: "Raleway", sans-serif;
+	font-size: 0.85rem;
+	line-height: 1;
+	font-weight: 800;
+	border-radius: 30px;
+	border-top-left-radius: 0;
+	color: #fff;
+	text-transform: uppercase;
+	background: #f43dd1;
+	transition: 300ms ease all;
+	&:hover {
+		transform: translateY(-3px);
+		box-shadow: 0 7.5px 15px rgba(34, 34, 34, 0.2);
+	}
+}
+
+@media screen and (min-width: 501px) and (max-width: 1840px) {
+	.price__container {
+		width: 85%;
+	}
+	.price__content {
+		width: 75vw;
+	}
+	.price__cardLink {
+		margin-top: 0;
+	}
+}
+
+@media screen and (max-width: 500px) {
+	.price__container {
+		width: 90%;
+		flex-direction: column-reverse;
+		align-items: center;
+	}
+
+	.price__content {
+		width: 90%;
+		margin-bottom: 40px;
+	}
+
+	.price__title {
+		font-size: 2em;
+	}
+
+	.price__item {
+		font-size: .8rem;
+	}
+
+	.price__contentBonuses {
+		padding: 20px 0 0 30px;
+		flex-direction: column;
+	}
+
+	.price__cardLink {
+		margin: 50px 0 0 30px;
+		padding: 20px 14px;
+		width: 130px;
+		font-size: 0.65rem;
+		align-self: flex-start;
+	}
+}
