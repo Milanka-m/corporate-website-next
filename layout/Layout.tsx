@@ -14,14 +14,28 @@ interface ILayoutProps {
 }
 
 const Layout: React.FC<ILayoutProps> = ({ children, title, desc, ogTitle }) => {
-	const [isNavBarOpen, setIsNavBarOpen] = React.useState<boolean>(false);
-	const [isArrowUp, setIsArrowUp] = React.useState<boolean>(false);
+	const [isNavBarOpen, setIsNavBarOpen] = React.useState<boolean>(false)
+	const [isArrowUp, setIsArrowUp] = React.useState<boolean>(false)
+
+	const checkScrollTop = () => {
+		if (!isArrowUp && window.pageYOffset > 400) {
+			setIsArrowUp(true)
+		} else if (isArrowUp && window.pageYOffset <= 400) {
+			setIsArrowUp(false)
+		}
+	}
 
 	React.useEffect(() => {
-    if (window.scrollY >= 800) {
-      setIsArrowUp((pre) => !pre)
-    }  
-  }, [])
+		checkScrollTop()
+		window.addEventListener("scroll", checkScrollTop);
+		return () => window.removeEventListener("scroll", checkScrollTop)
+	}, [checkScrollTop])
+
+	
+	const scrollTop = () =>{
+		window.scrollTo({top: 0, behavior: 'smooth'})
+	}
+
 
 	const handleNavBtnClick = (): void => {
 		setIsNavBarOpen((pre) => !pre)
@@ -54,7 +68,7 @@ const Layout: React.FC<ILayoutProps> = ({ children, title, desc, ogTitle }) => {
 					<button 
 						className={classNames(styles.upButton,
 							{[styles.upButton_visibility]: isArrowUp })}
-						onClick={() => window.scrollTo(0, 0)}
+							onClick={scrollTop}
 					>
 					</button>
 				</div>

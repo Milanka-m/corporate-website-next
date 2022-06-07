@@ -1,6 +1,7 @@
 import React from "react"
 import classNames from "classnames"
-import CountUp from 'react-countup';
+import CountUp from "react-countup"
+import VisibilitySensor from "react-visibility-sensor"
 import styles from "./Count.module.scss"
 
 interface ICountProps {
@@ -9,87 +10,64 @@ interface ICountProps {
 
 const Count: React.FC<ICountProps> = ({ className }) => {
 	return (
-    <ul className={styles.count}>
-      <li className={styles.count__item}>
-        <div className={styles.count__number}>
-          <CountUp
-            className={classNames(className, "customerСounter")}
-            start={0}
-            end={6}
-            duration={1.3}
-          >
-          </CountUp>
-          <CountUp
-            className={classNames(className, "customerСounter")}
-            start={0}
-            end={9}
-            duration={1.3}
-          >
-          </CountUp>
-          <CountUp
-            className={classNames(className, "customerСounter")}
-            start={9}
-            end={0}
-            duration={1.3}
-          >
-          </CountUp>
+    <VisibilitySensor partialVisibility offset={{ bottom: 200 }}>
+      {({ isVisible }) => (
+        <div style={{ height: 100 }}>
+          {isVisible 
+          ? 
+          (
+            <ul className={styles.count}>
+              <li className={styles.count__item}>
+                <div className={styles.count__number}>
+                  <CountUp
+                    className={classNames(className, "customerСounter")}
+                    end={690}
+                    duration={4}
+                    redraw={true}
+                  >
+                  </CountUp>
+                </div>
+                <span className={styles.count__text}>
+                  довольных клиентов
+                </span>
+              </li>
+              <li className={styles.count__item}>
+                <div className={styles.count__number}>
+                  <CountUp
+                    className={classNames(className, "projectsСounter")}
+                    end={700}
+                    suffix="+"
+                    duration={4}
+                    redraw={true}
+                  >
+                  </CountUp>
+                  
+                </div>
+                <span className={styles.count__text}>
+                  проектов закрыто
+                </span>
+              </li>
+              <li className={styles.count__item}>
+                <div className={styles.count__number}>
+                  <CountUp
+                    className={classNames(className, "currentProjectsСounter")}
+                    end={15}
+                    suffix="+"
+                    duration={2}
+                    redraw={true}
+                  >
+                  </CountUp>
+                </div>
+                <span className={styles.count__text}>
+                  текущих проектов
+                </span>
+              </li>
+            </ul>    
+          )
+          : null}
         </div>
-        <span className={styles.count__text}>
-          довольных клиентов
-        </span>
-      </li>
-      <li className={styles.count__item}>
-        <div className={styles.count__number}>
-          <CountUp
-            className={classNames(className, "projectsСounter")}
-            start={0}
-            end={7}
-            duration={1.3}
-          >
-          </CountUp>
-          <CountUp
-            className={classNames(className, "projectsСounter")}
-            start={9}
-            end={0}
-            duration={1.3}
-          >
-          </CountUp>
-          <CountUp
-            className={classNames(className, "projectsСounter")}
-            start={9}
-            end={0}
-            duration={1.3}
-            suffix="+"
-          >
-          </CountUp>
-        </div>
-        <span className={styles.count__text}>
-          проектов закрыто
-        </span>
-      </li>
-      <li className={styles.count__item}>
-        <div className={styles.count__number}>
-          <CountUp
-            className={classNames(className, "currentProjectsСounter")}
-            start={0}
-            end={1}
-            duration={.4}
-          >
-          </CountUp>
-          <CountUp
-            className={classNames(className, "currentProjectsСounter")}
-            start={0}
-            end={5}
-            suffix="+"
-            duration={1.5}
-          >
-          </CountUp>
-        </div>
-        <span className={styles.count__text}>
-          текущих проектов
-        </span>
-      </li>
-    </ul>    
+      )}
+    </VisibilitySensor>
 	)
 }
 
